@@ -34,7 +34,7 @@ Your newly created /project.json/ file should now look something like this:
 We'll be using Express Node.js framework for our api. You can install this module by running following
 command frow within api dir.
 
-	$ npm install --save Express
+	$ npm install --save express
 
 The `--save` flag will update your /project.json/ while new node module will be installed in /node_modules/
 directory.
