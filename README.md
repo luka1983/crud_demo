@@ -53,7 +53,7 @@ Now to write some code. Create *server.js* file with following code.
 			console.log('listening at http://%s:%s', host, port);
 		});
 
-And that all for this step! To start Node.js server simply run it with
+And that's all for this step! To start Node.js server simply run it with
 
 		$ node server.js
 
