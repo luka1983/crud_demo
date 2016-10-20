@@ -36,10 +36,10 @@ command frow within api dir.
 
 	$ npm install --save express
 
-The `--save` flag will update your *package.json* while new node module will be installed in /node_modules/
+The `--save` flag will update your *package.json* while new node module will be installed in *node_modules*
 directory.
 
-Now to write some code. Create /server.js/ file with following code.
+Now to write some code. Create *server.js* file with following code.
 
 		var app = require('express')()
 
