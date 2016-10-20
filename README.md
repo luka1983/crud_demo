@@ -18,9 +18,9 @@ Position in api dir and init this directory as new node project directory with f
 		$ npm init
 
 The npm (Node Package Manager) wil ask you to provide some information about your new project. This
-data will be stored in /package.json/ file that npm will create in project root dir.
+data will be stored in *package.json* file that npm will create in project root dir.
 
-Your newly created /package.json/ file should now look something like this:
+Your newly created *package.json* file should now look something like this:
 
 		{
 			"name": "crud_demo",
@@ -36,7 +36,7 @@ command frow within api dir.
 
 	$ npm install --save express
 
-The `--save` flag will update your /package.json/ while new node module will be installed in /node_modules/
+The `--save` flag will update your *package.json* while new node module will be installed in /node_modules/
 directory.
 
 Now to write some code. Create /server.js/ file with following code.
